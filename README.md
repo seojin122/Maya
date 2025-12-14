@@ -8,7 +8,11 @@
 
 
 
-https://github.com/user-attachments/assets/ae634ea0-8514-4a4a-8d6a-ff28f2722512
+
+https://github.com/user-attachments/assets/d22df47d-5c3e-4302-bb5d-837b0c36be4e
+
+
+
 
 
 ---
@@ -27,7 +31,8 @@ https://github.com/user-attachments/assets/ae634ea0-8514-4a4a-8d6a-ff28f2722512
 - Flying Taxi(드론 택시) 모델링  
   - 바디, 지붕, 앞유리, 헤드라이트, 암, 프로펠러 구조 설계  
 - 프로펠러 회전 Expression 구현  
-- 드론 택시 비행 경로 애니메이션 설계  
+- 드론 택시 비행 경로 애니메이션 설계
+- 도시(빌딩/나무/바닥) 환경 구성 
 
 
 ---
